@@ -1,1 +1,1 @@
-# -MAN-
+# project-C22-template
